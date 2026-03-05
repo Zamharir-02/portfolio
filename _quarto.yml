@@ -3,7 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: "Zam's"
+  favicon: favicon.jpg
+  open-graph:
+    title: "Muhammad Zamharir | Portfolio"
+    description: Bsc student from Sepuluh Nopember Institute of Technology | Immunology enthusiast
+    site-name: "M.Zamharir"
+  title: Zam's
   search: 
     location: navbar
     type: overlay
@@ -29,7 +34,9 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: sandstone
+      dark: slate
     css: styles.css
     toc: true
     number-sections: true
