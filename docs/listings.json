@@ -10,12 +10,11 @@
     ]
   },
   {
-    "listing": "/paper.html",
+    "listing": "/other.html",
     "items": [
-      "/posts/paper4.html",
-      "/posts/paper3.html",
-      "/posts/paper2.html",
-      "/posts/paper1.html"
+      "/posts/medium.html",
+      "/posts/dlh.html",
+      "/posts/mycofarm.html"
     ]
   },
   {
@@ -31,14 +30,17 @@
       "/posts/mangrove.html",
       "/posts/paper1.html",
       "/posts/pisang.html",
+      "/posts/mycofarm.html",
       "/posts/nyamuk.html"
     ]
   },
   {
-    "listing": "/other.html",
+    "listing": "/paper.html",
     "items": [
-      "/posts/medium.html",
-      "/posts/dlh.html"
+      "/posts/paper4.html",
+      "/posts/paper3.html",
+      "/posts/paper2.html",
+      "/posts/paper1.html"
     ]
   }
 ]
